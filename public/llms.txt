@@ -1,0 +1,104 @@
+# LUMIÈRE — Generative Engine Optimization Map
+
+> A handmade Judaica business specializing in crystal bead mezuzahs crafted by hand. The brand has a delicate, feminine, and spiritual aesthetic with a strong emphasis on artisanal craftsmanship. The pink color palette suggests a soft, elegant, and romantic vibe, blending traditional Jewish heritage with a modern, decorative sensibility. Each mezuzah is a unique piece of wearable or home art, appealing to those who seek beauty and meaning in religious objects.
+
+---
+
+## Pages
+
+### בית
+https://lumi-re-72af5b56.zappy5.app
+גלי את הקסם שבמזוזות חרוזי קריסטל בעבודת יד מבית LUMIÈRE. עיצוב נשי, רוחני ועדין המשלב מורשת יהודית עם יופי מודרני. הכניסי אור וקדושה לביתך עוד היום.
+
+### אומנות
+https://lumi-re-72af5b56.zappy5.app/craftsmanship
+הצטרפי למסע אל לב האומנות של LUMIÈRE, שם כל מזוזת קריסטל נרקמת בעבודת יד קפדנית. גלי את הסוד מאחורי העיצובים הנשיים והרוחניים שמביאים אור ייחודי לכל בית. התחילי לחקור עכשיו.
+
+### הסיפור שלנו
+https://lumi-re-72af5b56.zappy5.app/story
+הכירי את הנשמה של LUMIÈRE – סיפור על אהבה למורשת יהודית, קריסטלים מנצנצים ועיצוב נשי עדין. כל מזוזה היא פרק בסיפור שלנו שמחכה לקשט את ביתך. קראי עוד וגלי השראה.
+
+### צור קשר
+https://lumi-re-72af5b56.zappy5.app/contact
+מחפשת מזוזת קריסטל ייחודית שתתאים בדיוק לסגנון שלך? צרי קשר עם LUMIÈRE עוד היום לשיחה אישית על עיצובים נשיים ורוחניים בעבודת יד. היופי היהודי שלך מחכה לך מעבר ללחיצה.
+
+### Products
+https://lumi-re-72af5b56.zappy5.app/products
+המוצרים שלנו - LUMIÈRE
+
+### Cart
+https://lumi-re-72af5b56.zappy5.app/cart
+עגלת הקניות שלך
+
+### Checkout
+https://lumi-re-72af5b56.zappy5.app/checkout
+תשלום
+
+### Login
+https://lumi-re-72af5b56.zappy5.app/login
+התחברות לקוחות
+
+### Account
+https://lumi-re-72af5b56.zappy5.app/account
+החשבון שלי
+
+### Order Success
+https://lumi-re-72af5b56.zappy5.app/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://lumi-re-72af5b56.zappy5.app/product/:slug
+פרטי המוצר - LUMIÈRE
+
+### Category
+https://lumi-re-72af5b56.zappy5.app/category/:slug
+מוצרים - LUMIÈRE
+
+### תודה רבה | LUMIÈRE
+https://lumi-re-72af5b56.zappy5.app/thank-you
+ההודעה שלך התקבלה בהצלחה. אנו מודים לך על פנייתך בנושא קולקציית LUMIÈRE, כולל מנורת שולחן foscarini lumiere table lamp. נחזור אליך בהקדם.
+
+## Legal & Policy
+
+### Privacy Policy
+https://lumi-re-72af5b56.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://lumi-re-72af5b56.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://lumi-re-72af5b56.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## Products
+
+_No products are currently configured._
+
+---
+
+# Business Context (for LLM understanding)
+
+## About LUMIÈRE
+A handmade Judaica business specializing in crystal bead mezuzahs crafted by hand. The brand has a delicate, feminine, and spiritual aesthetic with a strong emphasis on artisanal craftsmanship. The pink color palette suggests a soft, elegant, and romantic vibe, blending traditional Jewish heritage with a modern, decorative sensibility. Each mezuzah is a unique piece of wearable or home art, appealing to those who seek beauty and meaning in religious objects.
+
+## Target Audience
+- אספני יודאיקה
+- בתים יהודיים מודרניים
+- קוני מתנות יוקרה
+
+## Industry
+Handmade Judaica & Crystal Jewelry
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://lumi-re-72af5b56.zappy5.app/sitemap.xml
+- Robots: https://lumi-re-72af5b56.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://lumi-re-72af5b56.zappy5.app/llms-full.txt
+- Products (JSON): https://lumi-re-72af5b56.zappy5.app/products.json
+- Products (Google Merchant RSS): https://lumi-re-72af5b56.zappy5.app/product-feed.xml
