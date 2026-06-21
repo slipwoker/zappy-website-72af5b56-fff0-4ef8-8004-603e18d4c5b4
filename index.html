@@ -363,7 +363,7 @@
     </div>
   
 <script>window.ZAPPY_PRODUCTS_LISTING_PATH = "/products";</script>
-<script>window.ZAPPY_WEBSITE_ID = "72af5b56-fff0-4ef8-8004-603e18d4c5b4";window.ZAPPY_API_BASE = "https://api.zappy5.com";</script><a class="skip-link" href="#main">דלג לתוכן הראשי</a>
+<script>window.ZAPPY_WEBSITE_ID = "72af5b56-fff0-4ef8-8004-603e18d4c5b4";window.ZAPPY_API_BASE = (window.location.pathname.includes('/preview') ? "https://api.zappy5.com" : "https://api.zappy5.com");</script><a class="skip-link" href="#main">דלג לתוכן הראשי</a>
   <nav class="navbar">
   <button class="mobile-toggle" id="mobileToggle" aria-label="Menu">
     <svg class="hamburger-icon" width="24" height="24" viewBox="0 0 24 24" fill="none">
@@ -920,7 +920,7 @@
   <!-- Overlay content group (lower start quadrant) -->
   <div class="index-hero-section__overlay">
     <div class="index-hero-section__overlay-content">
-      <h1 class="index-hero-section__headline" >LUMIÈRE — מזוזות קריסטל בעבודת יד</h1>
+      <h1 class="index-hero-section__headline" style="">LUMIÈRE — מזוזות קריסטל בעבודת יד</h1>
       <h3 class="index-hero-section__subtitle">
         כל מזוזה נרקמת בעבודת יד קפדנית, משלבת חרוזי קריסטל זוהרים, מסורת יהודית עתיקה ועיצוב דקורטיבי עכשווי. יצירת אמנות רוחנית לבית ולפתח.
       </h3>
@@ -1119,7 +1119,7 @@
   </div>
 </section>
 
-<section data-band-index="4" class="index-cta-section" data-layout-spec="בית-cta" dir="rtl">
+<section data-band-index="4" class="index-cta-section" data-layout-spec="בית-cta" dir="rtl" id="index-cta-section">
   <!-- Decorative Geometric Halos -->
   <div class="index-cta-section__halo index-cta-section__halo--top" aria-hidden="true"></div>
   <div class="index-cta-section__halo index-cta-section__halo--bottom" aria-hidden="true"></div>
@@ -1131,18 +1131,17 @@
 
   <div class="index-cta-section__container">
     <h2 class="index-cta-section__title">האור שבפתח ביתך</h2>
-    <p class="index-cta-section__text">
+    <p class="index-cta-section__text" style="">
       כל מזוזה בעבודת יד היא תפילה חרוזה, אור קריסטלי הממתין להיתלות על משקוף ביתך. 
-      בין אם את מחפשת מתנה מרגשת, יצירה בהתאמה אישית, או פשוט לשוחח על המשמעות 
-      והיופי שבמסורת — נשמח לשמוע ממך.
+      בין אם אתם מחפשים מתנה מרגשת, יצירה בהתאמה אישית, או פשוט לפנק את עצמכם — נשמח לשמוע מכם.
     </p>
-    <a href="/contact" class="index-cta-section__btn">
-      <span>צרי קשר</span>
+    <p><a href="/contact" class="index-cta-section__btn" style="color: rgb(58, 36, 51) !important; outline: none;" data-element-type="button" data-element-id="btn-1782000003014-qlj6qrbkc" data-native-element="true">
+      <span style="color: rgb(58, 36, 51) !important;">צרו קשר</span>
       <svg width="16" height="16" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" data-element-type="icon" data-icon-type="svg">
         <path d="M5 12H19M19 12L12 5M19 12L12 19" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
       </svg>
     </a>
-  </div>
+  </p></div>
 </section>
   </main>
   
