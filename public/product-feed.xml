@@ -4,6 +4,18 @@
     <title>LUMIÈRE</title>
     <link>https://example.com</link>
     <description>Product feed for LUMIÈRE</description>
-    <lastBuildDate>Sat, 20 Jun 2026 23:53:29 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 21 Jun 2026 00:02:32 GMT</lastBuildDate>
+    <item>
+      <g:id>4c97619a-7596-425b-8b3f-b7f3f1ae8fcc</g:id>
+      <g:title>מזוזה</g:title>
+      <g:description>מזוזה</g:description>
+      <g:link>https://example.com/product/mzvzh-p3ox7i</g:link>
+      <g:image_link>https://example.com/assets/product-1781999834553-3rhyzd.webp</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>555.00 ILS</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>LUMIÈRE</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+    </item>
   </channel>
 </rss>

@@ -76,7 +76,13 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-_No products are currently configured._
+**Total active products: 1**
+
+### מזוזה
+https://example.com/product/mzvzh-p3ox7i
+- Price: 555.00 ILS
+- Availability: In stock
+- Image: https://example.com/assets/product-1781999834553-3rhyzd.webp
 
 ---
 

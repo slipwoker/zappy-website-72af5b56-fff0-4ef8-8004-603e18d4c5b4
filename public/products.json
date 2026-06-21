@@ -1,8 +1,31 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-06-20T23:53:29.447Z",
+  "generated_at": "2026-06-21T00:02:32.134Z",
   "base_url": "https://example.com",
   "currency": "ILS",
-  "count": 0,
-  "products": []
+  "count": 1,
+  "products": [
+    {
+      "id": "4c97619a-7596-425b-8b3f-b7f3f1ae8fcc",
+      "slug": "mzvzh-p3ox7i",
+      "name": "מזוזה",
+      "name_translations": {},
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 555,
+      "base_price": 555,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://example.com/assets/product-1781999834553-3rhyzd.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://example.com/product/mzvzh-p3ox7i",
+      "categories": [],
+      "updated_at": "2026-06-20T23:59:59.961Z"
+    }
+  ]
 }
